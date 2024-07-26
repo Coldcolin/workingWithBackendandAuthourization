@@ -1,0 +1,25 @@
+.AuthLayout{
+    width: 100%;
+    background-color: #00419B;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ContentHolder{
+    width: 80%;
+    padding: 10px;
+    min-height: 80vh;
+    height: 80vh;
+    border-radius: 20px;
+    background-color: #E2EDFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Illustration{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
